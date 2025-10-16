@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Xintong Jiang</title>
+    <link>https://jiangzncu.github.io/publications/</link>
+    <description>Recent content in Publications on Xintong Jiang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jiangzncu.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mendelian randomization and multi-omics approach analysis reveal impaired glucose metabolism and oxidative phosphorylation in visceral adipose tissue of women with polycystic ovary syndrome</title>
+      <link>https://jiangzncu.github.io/publications/1/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangzncu.github.io/publications/1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Association of serum uric acid with women&#39;s ovarian reserve: observational study and Mendelian randomization analyses</title>
+      <link>https://jiangzncu.github.io/publications/2/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangzncu.github.io/publications/2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acetylshikonin exerts anti-tumor effects on non-small cell lung cancer through dual inhibition of STAT3 and EGFR</title>
+      <link>https://jiangzncu.github.io/publications/3/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangzncu.github.io/publications/3/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+
+BEGIN:VCARD
+VERSION:4.0
+
+
+N:Jiang;Xintong;;;
+FN:Xintong Jiang
+
+
+TEL;TYPE=WORK,VOICE:
+
+
+EMAIL;TYPE=INTERNET,PREF:jiangzncu@gmail.com
+
+
+EMAIL;TYPE=INTERNET,WORK:
+
+
+PHOTO;TYPE=JPG;VALUE=URI:https://jiangzncu.github.io/img/selfie.jpg
+
+
+ORG:The First Affiliated Hospital of WMU
+
+
+TITLE:
+
+
+URL:https://jiangzncu.github.io/
+
+END:VCARD
